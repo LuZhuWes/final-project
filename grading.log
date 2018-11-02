@@ -1,0 +1,7 @@
+2018-11-02,15:41:15 - INFO - Starting to grade zhulu's project
+2018-11-02,15:41:15 - INFO - Found README at /Users/kev/Dropbox (Huttenhower Lab)/bst273_fall2018/submissions/zhulu_late_249513_6723955/README.txt
+2018-11-02,15:41:15 - INFO - Found script at /Users/kev/Dropbox (Huttenhower Lab)/bst273_fall2018/submissions/zhulu_late_249513_6723955/scatter.py
+2018-11-02,15:41:15 - INFO - Found demo_input at /Users/kev/Dropbox (Huttenhower Lab)/bst273_fall2018/submissions/zhulu_late_249513_6723955/iris.tsv
+2018-11-02,15:41:15 - INFO - Found demo_output at /Users/kev/Dropbox (Huttenhower Lab)/bst273_fall2018/submissions/zhulu_late_249513_6723955/output.png
+2018-11-02,15:42:04 - WARNING - At least one listed command failed - check manually
+2018-11-02,15:42:04 - INFO - Commands: [['python', 'scatter.py', 'iris.tsv', '1', '2', '--sindex', '5']]
